@@ -24,4 +24,6 @@ This project showcases how to:
 1. Make sure you have [Apache Tomcat](https://tomcat.apache.org/) installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/SayubShakya/tomcat-server.git
+   git clone https://github.com/SayubShakya/java-servlet-tomcat-server.git
+   cd java-servlet-tomcat-server
+   ```

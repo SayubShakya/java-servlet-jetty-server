@@ -28,3 +28,5 @@ This project showcases how to:
 1. Clone this repository:
    ```bash
    git clone https://github.com/SayubShakya/jetty-server.git
+   cd jetty-server
+   ```
